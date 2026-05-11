@@ -1,15 +1,10 @@
-# Calculator 
+# Python Beginner Projects
 
-A simple Python calculator using loops and conditionals.
+A collection of beginner-friendly Python projects created while learning programming fundamentals.
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-## Concepts Used
-- while loops
-- functions
-- conditionals
-- user input
+These projects focus on:
+- Logic building
+- Problem solving
+- Loops and conditionals
+- Functions
+- User interaction
