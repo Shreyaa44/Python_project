@@ -50,11 +50,11 @@ def menu_page():
                         print("Updated balance:",money)
                 elif choice == "3":
                         y= int(input("Remove money: "))
+                        money-=y
                         if money<0:
                                 print("Insuffient balance")
                         else:
                                print("updated amount: ",money)
-                        money-=y
                                 
                 elif choice =="4":
                         break  
